@@ -8,12 +8,12 @@ Step 2: Put data on which we need to apply map reduce in this input directory
 
 Step 3: Verify map reduce program jar in respective directory
 
-![Alt text](/images/Screenshot_1.png?raw=true "Simple Code on IPython Notebooks")
+![Alt text](/images/Screenshot_1.png?raw=true "hadoop MR example")
 
 Step 4: Run the map reduce program 
 ### hadoop jar /hadoop/share/hadoop/mapreduce/hadoop-mapreduce-examples-3.3.0.jar grep input output 'dfs[a-z.]+'
 
-![Alt text](/images/Screenshot_2.png?raw=true "Simple Code on IPython Notebooks")
+![Alt text](/images/Screenshot_2.png?raw=true "hadoop MR example")
 
 ## Total output is given below
 02098693387_0002 completed successfully <br/>
@@ -83,5 +83,5 @@ Step 4: Run the map reduce program
 Step 5: Get the results generated in output folder to local file system.
 ## hadoop dfs -get output output
 
-
+![Alt text](/images/Screenshot_3.png?raw=true "hadoop MR example")
 
