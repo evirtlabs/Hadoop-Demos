@@ -18,4 +18,4 @@ and upload these files in input directory of program in hadoop file system
 
 Step 4: Verify content of files on hdfs
 
-![Alt text](/images/WC_Screenshot_4.png?raw=true "hadoop MR example")
+![Alt text](/images/WC_Screenshot_5.png?raw=true "hadoop MR example")
