@@ -7,3 +7,4 @@
 ![Alt text](/images/Temp_Screenshot_2.png?raw=true "hadoop MR example")
 
 ## Step 3: Verify the Results
+![Alt text](/images/Temp_Screenshot_3.png?raw=true "hadoop MR example")
