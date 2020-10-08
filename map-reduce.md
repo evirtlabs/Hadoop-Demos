@@ -16,10 +16,10 @@ Step 4: Run the map reduce program
 ![Alt text](/images/Screenshot_2.png?raw=true "Simple Code on IPython Notebooks")
 
 ## Total output is given below
-02098693387_0002 completed successfully
-2020-10-08T06:20:50,833 INFO [main] org.apache.hadoop.mapreduce.Job - Counters: 54
-        File System Counters
-                FILE: Number of bytes read=131
+02098693387_0002 completed successfully <br/>
+2020-10-08T06:20:50,833 INFO [main] org.apache.hadoop.mapreduce.Job - Counters: 54 <br/>
+        File System Counters <br/>
+                FILE: Number of bytes read=131 <br/>
                 FILE: Number of bytes written=529457
                 FILE: Number of read operations=0
                 FILE: Number of large read operations=0
