@@ -8,3 +8,7 @@
 
 ## Step 3: Verify the Results
 ![Alt text](/images/Temp_Screenshot_3.png?raw=true "hadoop MR example")
+
+## Step 4: Check the content in output folder
+
+![Alt text](/images/Temp_Screenshot_4.png?raw=true "hadoop MR example")
