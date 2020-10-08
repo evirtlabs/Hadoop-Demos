@@ -79,3 +79,9 @@ Step 4: Run the map reduce program
         File Output Format Counters  <br/>
                 Bytes Written=85  <br/>
 (base) [hdeveloper@hadoop mapreduce]$
+
+Step 5: Get the results generated in output folder to local file system.
+## hadoop dfs -get output output
+
+
+
