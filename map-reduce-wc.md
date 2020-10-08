@@ -1,14 +1,14 @@
 # Map Reduce Word Count Example 
 
-Step 1: Clone the git repository 
+## Step 1: Clone the git repository 
 
 ![Alt text](/images/WC_Screenshot_1.png?raw=true "hadoop MR example")
 
-Step 2: Go to specific directory where pre-built word count jar is kept. 
+## Step 2: Go to specific directory where pre-built word count jar is kept. 
 
 ![Alt text](/images/WC_Screenshot_2.png?raw=true "hadoop MR example")
 
-Step 3: Create two text files with below contents and name them as file01 and file02
+## Step 3: Create two text files with below contents and name them as file01 and file02
 
 ![Alt text](/images/WC_Screenshot_4.png?raw=true "hadoop MR example")
 
@@ -16,14 +16,14 @@ and upload these files in input directory of program in hadoop file system
 
 ![Alt text](/images/WC_Screenshot_3.png?raw=true "hadoop MR example")
 
-Step 4: Verify content of files on hdfs
+## Step 4: Verify content of files on hdfs
 
 ![Alt text](/images/WC_Screenshot_5.png?raw=true "hadoop MR example")
 
-Step 5: 
+## Step 5: Run the wordcount program using java jar that we have set pre-built
 
 ![Alt text](/images/WC_Screenshot_6.png?raw=true "hadoop MR example")
 
-Step 6:
+## Step 6: Verify the results.
 
 ![Alt text](/images/WC_Screenshot_7.png?raw=true "hadoop MR example")
